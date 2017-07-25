@@ -1,2 +1,2 @@
 # AngularApp
-sample Angular app
+sample Angular 1 app
